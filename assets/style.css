@@ -87,7 +87,7 @@ body {
 	font-style: italic;
 	width: 60%;
 }
-#about-me p {
+.about-me__second_introduction {
 	width: 80%;
 	font-size: 14px;
 }
